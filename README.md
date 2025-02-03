@@ -2,7 +2,7 @@
 ## 📌 How to Run the Script
 1. Install dependencies: `pip install selenium`
 2. Download and setup **Chrome WebDriver**.
-3. Run the script: `python assignment.py`
+3. Run the script: `python test_assignment.py`
 
 ## 📌 Test Cases Automated
 - Login (Valid & Invalid)
@@ -12,4 +12,4 @@
 - Logout functionality
 
 ## 📌 Video Demo
-[Click here to watch execution](https://drive.google.com/file/d/1Tr_3gENJ5jDXkZBAOHDH0LGPocWleNCE/view?usp=sharing)
+[Click here to watch execution](https://drive.google.com/file/d/1T4-AYOn9XswngWABlrEtx0GEqpPyK027/view?usp=sharing)
