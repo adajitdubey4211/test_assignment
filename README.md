@@ -2,7 +2,7 @@
 ## 📌 How to Run the Script
 1. Install dependencies: `pip install selenium`
 2. Download and setup **Chrome WebDriver**.
-3. Run the script: `python saucedemo_test.py`
+3. Run the script: `python assignment.py`
 
 ## 📌 Test Cases Automated
 - Login (Valid & Invalid)
